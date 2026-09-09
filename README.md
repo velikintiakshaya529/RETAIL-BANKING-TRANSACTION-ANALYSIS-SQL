@@ -225,6 +225,3 @@ This SQL analysis can be extended by:
 
 ---
 
-## 🏢 TRAINING INSTITUTION
-
-**Innomatics Research Labs**
